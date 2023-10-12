@@ -26,6 +26,4 @@ Method Description create Creates object of given class show Prints the string r
 To  the peers that contributed with their knowledge
 
 ### Authors 🖋️
-`Abuhasan Mubaraq`
-
-`Mujor Bright`
+`Vincent Nyang'aya'
